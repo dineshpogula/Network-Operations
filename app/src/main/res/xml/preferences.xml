@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<ListPreference
+    android:key="chosenNetworkType"
+    android:title="Allowed Network Type"
+    android:entries= "@array/networktypes"
+    android:entryValues="@array/networknames"
+    android:defaultValue="WiFi"/>
+</PreferenceScreen>
