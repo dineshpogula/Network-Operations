@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="networktypes">
+        <item>Any Network</item>
+        <item>Only WiFi</item>
+        <item>Stop Data</item>
+    </string-array>
+    <string-array name="networknames">
+        <item>Any</item>
+        <item>WiFi</item>
+        <item>None</item>
+    </string-array>
+</resources>
